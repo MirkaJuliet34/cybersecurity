@@ -34,7 +34,7 @@ Durante essa jornada intensa, aprofundei meus conhecimentos em segurança ofensi
 ---
 # 🎓 Bootcamp Santander Bootcamp Cibersegurança #2 📊
 
-![Bootcamp Análise de Dados](assets/certificado.jpg)
+![Bootcamp Análise de Dados](certificado.png)
 
 Esse aprendizado reforça a importância da cibersegurança e da necessidade de profissionais capacitados para proteger sistemas e redes. 💻🔐
 **#CyberSecurity #Pentest #EthicalHacking #Bootcamp #SegurançaDaInformação #HackingEthico**
