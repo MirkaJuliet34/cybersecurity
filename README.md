@@ -1,4 +1,5 @@
-# 🚀 Concluí um Bootcamp de Cibersegurança e Pentest! 🚀
+# 🚀 Concluí um Bootcamp de Cibersegurança e Pentest! 
+
 ---
 
 Durante essa jornada intensa, aprofundei meus conhecimentos em segurança ofensiva, testes de intrusão e análise de vulnerabilidades, explorando ferramentas e técnicas essenciais para identificar e mitigar riscos cibernéticos.
